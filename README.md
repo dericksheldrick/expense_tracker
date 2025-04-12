@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense_tracker
 
 A simple react app allows users to track their expenses with table, form, and search functionality.
